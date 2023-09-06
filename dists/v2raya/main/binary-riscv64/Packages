@@ -1,0 +1,51 @@
+Package: v2ray
+Version: 5.7.0
+License: MIT
+Vendor: none
+Architecture: riscv64
+Maintainer: v2raya@v2raya.org
+Installed-Size: 34631
+Homepage: https://v2fly.org/
+Priority: optional
+Section: default
+Filename: pool/main/v/v2ray/v2ray_5.7.0_riscv64.deb
+Size: 11575272
+SHA256: 1806389574b69335ec2d45321634dc7771296231a3365946cddab4e7fecb9c27
+SHA1: 1b7d85445e45b2e40b60244eae9f072b0a1bb2f1
+MD5sum: f9fb4d890e6947c2f007e2d1da65ddfa
+Description: A platform for building proxies to bypass network restrictions
+
+Package: v2raya
+Version: 2.2.4
+License: AGPL
+Vendor: none
+Architecture: riscv64
+Maintainer: v2raya@v2raya.org
+Installed-Size: 24017
+Homepage: https://github.com/v2rayA/v2rayA
+Priority: optional
+Section: default
+Filename: pool/main/v/v2raya/v2raya_2.2.4_riscv64.deb
+Size: 10737016
+SHA256: 688a3df99f3c512ea77c640f5c9f413af83b2aecd4b7b552ece40e8f2fa77b8a
+SHA1: 4339bc6cdbaec76526fff29b3944aab3e0ba21a6
+MD5sum: c2463884745359fd3967cda85bf048ed
+Description: A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols
+
+Package: xray
+Version: 1.8.4
+License: MPL-2.0
+Vendor: none
+Architecture: riscv64
+Maintainer: v2raya@v2raya.org
+Installed-Size: 35814
+Homepage: https://xtls.github.io/
+Priority: optional
+Section: default
+Filename: pool/main/x/xray/xray_1.8.4_riscv64.deb
+Size: 11747730
+SHA256: 812f84caa1f91d5a39e4365da6f79c187c5850a1b58ebcc65429be5e6139b541
+SHA1: 9106c1c42282557c05e36b21846c67eaedfb5f0e
+MD5sum: 808a40577b53c9ca43efebaba8f8772e
+Description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration
+

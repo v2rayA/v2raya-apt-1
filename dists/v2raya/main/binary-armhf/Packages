@@ -1,0 +1,51 @@
+Package: v2ray
+Version: 5.7.0
+License: MIT
+Vendor: none
+Architecture: armhf
+Maintainer: v2raya@v2raya.org
+Installed-Size: 34055
+Homepage: https://v2fly.org/
+Priority: optional
+Section: default
+Filename: pool/main/v/v2ray/v2ray_5.7.0_armhf.deb
+Size: 11563616
+SHA256: 3bff73db302ec4a7e362e1fabe5c382ae7cf6833f3e34abf537694d3bc4e0d52
+SHA1: 3cb4a91e25a15e827fd19545a453f554078a4f75
+MD5sum: 399faa5e82f3b6c8766222110e02c993
+Description: A platform for building proxies to bypass network restrictions
+
+Package: v2raya
+Version: 2.2.4
+License: AGPL
+Vendor: none
+Architecture: armhf
+Maintainer: v2raya@v2raya.org
+Installed-Size: 23313
+Homepage: https://github.com/v2rayA/v2rayA
+Priority: optional
+Section: default
+Filename: pool/main/v/v2raya/v2raya_2.2.4_armhf.deb
+Size: 10687188
+SHA256: 8d66834a48867f7b239c6a59de40150fde4e7f6755b1180250de0542fcc3fc41
+SHA1: 01a91e68b1e2c9263787b390845f2bde5a3da599
+MD5sum: 34760b3601c1f6fea3367d3bed3c7229
+Description: A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols
+
+Package: xray
+Version: 1.8.4
+License: MPL-2.0
+Vendor: none
+Architecture: armhf
+Maintainer: v2raya@v2raya.org
+Installed-Size: 35046
+Homepage: https://xtls.github.io/
+Priority: optional
+Section: default
+Filename: pool/main/x/xray/xray_1.8.4_armhf.deb
+Size: 11648910
+SHA256: db1ee812e1f909bd969c5436d826efd093cee424a9870976dc72477a4096eb56
+SHA1: 931f7d5bc39b415540b6bc50a48777e5721f269a
+MD5sum: f9c661d78961947de061467a749b7710
+Description: Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration
+
